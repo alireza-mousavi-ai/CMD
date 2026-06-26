@@ -2,7 +2,7 @@
 
 A quick reference guide for Windows Command Prompt.
 
-!CMD Cheat Sheet
+CMD Cheat Sheet!
 
 Created by:
 github.com/alireza-mousavi-ai
